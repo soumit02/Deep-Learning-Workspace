@@ -10,7 +10,7 @@ Welcome to my Deep Learning workspace! This repository contains my daily practic
 ## 🛠️ Technologies & Libraries
 
 * **Language**: Python 3.x
-* **Core Libraries**: TensorFlow, Keras, Scikit-Learn
+* **Core Libraries**: TensorFlow, Keras, Scikit-Learn, Ultralytics, Supervision
 * **Data Manipulation**: NumPy, Pandas
 * **Data Visualization**: Matplotlib, Seaborn
 
