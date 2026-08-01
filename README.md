@@ -20,4 +20,4 @@ If you want to run the codes in this repository, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone <your-github-repo-link-here>
+   git clone https://github.com/soumit02/Deep-Learning-Workspace.git
